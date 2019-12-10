@@ -6,10 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4022b013-e3ae-4b83-bc89-3bdded960175" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="4022b013-e3ae-4b83-bc89-3bdded960175" name="Default Changelist" comment="第一次修改">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_mod/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_mod/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myweb/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/myweb/web/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -157,8 +155,17 @@
       <option name="presentableId" value="Default" />
       <updated>1575905679270</updated>
       <workItem from="1575905682871" duration="646000" />
-      <workItem from="1575907191678" duration="57000" />
+      <workItem from="1575907191678" duration="353000" />
+      <workItem from="1575990555442" duration="17000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次修改">
+      <created>1575907345621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575907345621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,10 +176,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次修改" />
   </component>
 </project>
